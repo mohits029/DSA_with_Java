@@ -16,7 +16,7 @@ public class Problem5 {
     }
 
     public static void main(String[] args) {
-        int year= 1959;
+        int year= 1234;
         HashMap<Integer,String> num_map= new HashMap<>();
         num_map.put(0,"Zero");
         num_map.put(1,"One");
