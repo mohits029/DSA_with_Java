@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Permutation.executor": "Run",
     "Application.Problem1.executor": "Run",
     "Application.Problem2.executor": "Run",
     "Application.Problem3.executor": "Run",
